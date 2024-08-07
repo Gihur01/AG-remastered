@@ -1,0 +1,32 @@
+v1.4.1:
+- tweaked energy reqirement due to beta tester dying hard
+- changed save and load paths from absolute to relative (so it can run on client pc instead of only mine)
+- wording tweaks
+
+v1.4:
++ display map
++ drink water from river tiles
+- bug fixes with map loading
+- exploration system revamp
+
+v1.3: (release)
++ you can now save and load all data
+
+v1.2:
++ added energy system
++ added 6th time frame: night
++ map loading and saving now works, improved inventory saving and loading.
+- bug fixes: fixed exploration beaking findfood
+- inventory now don't display items with 0 quantity
+
+v1.1:
++ you can now eat many of the same food at once (usage: eat 2 apple)
++ implemented food poisoning
+- fixed death not stopping game
+
+v1.0:
++ finding food now works
++ basic inventory actions: eating. usage: e.g. eat apple (currently only 1 at a time)
++ basic time function: 5 periods in a day, each period decrease food and water by 1 bar
++ artwork
++ exploration system (5x5), fixed map

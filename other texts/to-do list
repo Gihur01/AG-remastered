@@ -1,0 +1,26 @@
+
+
+
+4. health, strength, (experience?) - in hunting, to get meat
+5. item processing and basic tools
+6. map generation
+7. better time system , but you cant do anything until you have torches/campfire)
+    torches and campfires will burnout; torches have 2 phases and campfires 3, at random
+8. limit to amount of food finding in an area, resource map. can regen every day?
+
+10. global time to record poison, item burnout
+
+easy: 1,3,9
+medium: 5,6,7,8
+hard: 2,4 
+
+current: 9
+
+
+
+completed:
+1. add quantity to food (finding)/eating 
+2. apply energy system (need resting, diff time of the day have diff base energy)
+3. food poison
+7.1: add night 6th time frame
+9. drink from rivers?
